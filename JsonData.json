@@ -1,5 +1,5 @@
 [
-    {"id":"1","nameStorage": "aaa"},
-    {"id":"2","nameStorage": "bbb"},
-    {"id":"3","nameStorage": "Ab"}
+    {"id":1,"nameStorage": "aaa"},
+    {"id":2,"nameStorage": "bbb"},
+    {"id":3,"nameStorage": "Ab"}
 ]
